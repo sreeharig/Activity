@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="send">Send</string>
+    <string name="message_recived">message_recived</string>
+    <string name="enter_your_message">Enter Your Message</string>
+    <string name="enter_your_reply">Enter Your Reply</string>
+</resources>
